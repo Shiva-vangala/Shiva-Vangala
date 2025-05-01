@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Flutter,dart,firebase .etc**
 
-- 👨‍💻 All of my projects are available at [https://shiva-vangala.github.io/Shiva_portfolio/](https://shiva-vangala.github.io/Shiva_portfolio/)
+- 👨‍💻 My Portfolio available at [https://shiva-vangala.github.io/Shiva_portfolio/](https://shiva-vangala.github.io/Shiva_portfolio/)
 
 - 💬 Ask me about **C,python,java,html,CSS,AI&ML..etc.**
 
