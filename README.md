@@ -61,6 +61,16 @@
 
 ---
 
+## 👥 Contributions & Community
+
+- 🤝 Actively contributing to open-source projects
+- 🌱 Learning and building in public via GitHub
+- 💬 Mentored juniors in college projects and ML tasks
+- 🔁 Reviewing PRs, raising issues, and collaborating on dev forums
+- 🧑‍💻 Participating in online hackathons and dev challenges
+
+---
+
 ## 🏆 Trophies
 
 <p align="center">
@@ -77,6 +87,10 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Shiva-vangala&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shiva-vangala&theme=react-dark&hide_border=false&area=true&custom_title=Contribution%20Graph" />
 </p>
 
 ---
