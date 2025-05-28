@@ -20,10 +20,10 @@
 
 ## 🚀 Notable Projects
 
-🔹 [HerCycle+](https://github.com/Shiva-vangala/HerCycle): Women's health app with cycle tracking, mental wellness, and fertility insights  
-🔹 [Car Rental Website](https://github.com/Shiva-vangala/car_rental_website): Full-featured PHP/MySQL rental system  
-🔹 [Facial Liveness Detection](https://github.com/Shiva-vangala/facial_Liveness_detection): AI-based face authentication  
-🔹 [UPI-Based Smart Water Dispenser](https://github.com/Shiva-vangala/UPI-based-water-dispenser): IoT project with real-time UPI payments  
+🔹 [HerCycle+](https://github.com/Shiva-vangala/HerCycle)  
+🔹 [Car Rental Website](https://github.com/Shiva-vangala/car_rental_website)  
+🔹 [Facial Liveness Detection](https://github.com/Shiva-vangala/facial_Liveness_detection)  
+🔹 [UPI-Based Water Dispenser](https://github.com/Shiva-vangala/UPI-based-water-dispenser)  
 
 ---
 
@@ -63,11 +63,10 @@
 
 ## 👥 Contributions & Community
 
-- 🤝 Actively contributing to open-source projects
-- 🌱 Learning and building in public via GitHub
-- 💬 Mentored juniors in college projects and ML tasks
-- 🔁 Reviewing PRs, raising issues, and collaborating on dev forums
-- 🧑‍💻 Participating in online hackathons and dev challenges
+- 🤝 Contributing to open-source and personal dev projects
+- 🌱 Building in public and mentoring juniors
+- 💬 Actively engaging in GitHub issues & PR reviews
+- 🧑‍💻 Participating in national-level hackathons
 
 ---
 
